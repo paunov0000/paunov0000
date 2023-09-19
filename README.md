@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="cute.gif" alt="Banner">
+  <img src="socute.jpg" alt="Banner">
 </p>
 
 <h1 align="center">Hi, I'm Lachezar Paunov!</h1>
