@@ -8,6 +8,10 @@
 
 <img hight="400" width="500" alt="GIF" align="right" src="./assets/sosocute.jpg">
 
+</br>
+</br>
+</br>
+
 ### - Learning :
 - ✨ HTML & CSS
 - ✨ JavaScript
