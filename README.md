@@ -8,11 +8,6 @@
 
 <img hight="350" width="450" alt="jpg" align="right" src="./assets/sosocute.jpg">
 
-</br>
-</br>
-</br>
-</br>
-</br>
 
 ### - Learning :
 - ✨ HTML & CSS
