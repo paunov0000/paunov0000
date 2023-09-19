@@ -1,9 +1,43 @@
 <p align="center">
-  <img src="socute.jpg" alt="Banner">
+  <img src="./assets/socute.jpg" alt="Banner">
 </p>
 
-<h1 align="center">Hi, I'm Lachezar Paunov!</h1>
-<h1 align="center">Welcome to my GitHub profile~ OwO</h1>
+# About ME 💬 :
+
+### - I'm 21 years old development enthusiast from Bulgaria.
+
+<img hight="400" width="500" alt="GIF" align="right" src="./assets/sosocute.jpg">
+
+### - Learning :
+- ✨ HTML & CSS
+- ✨ JavaScript
+
+</br>
+</br>
+</br>
+
+# Languages & Tools 👨‍💻 🛠:
+</br>
+
+<p align="center">
+
+<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/csharp.svg" alt="csharp" width="120" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png" alt="bash" width="100" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
+</br>
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
+</br>
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="edge" width="100" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
+</p>
+</br>
+</br>
+</br>
 
 <p align="center">
   <a href="https://github.com/paunov0000"><img src="https://github-readme-stats.vercel.app/api?username=paunov0000&hide_border=true&show_icons=true" alt="paunov0000's github stats"></a>
