@@ -6,8 +6,10 @@
 
 ### - I'm 21 years old development enthusiast from Bulgaria.
 
-<img hight="400" width="500" alt="GIF" align="right" src="./assets/sosocute.jpg">
+<img hight="300" width="400" alt="jpg" align="right" src="./assets/sosocute.jpg">
 
+</br>
+</br>
 </br>
 </br>
 </br>
