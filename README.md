@@ -27,19 +27,19 @@
 <p align="center">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="./assets/icons/csharp.png" alt="csharp" width="120" hight="50">
-<img src="./assets/icons/css3.png" alt="java"  width="100" hight="50">
-<img src="./assets/icons/html.png" alt="AI" width="90" hight="50">
-<img src="./assets/icons/js.png" alt="bash" width="100" hight="50">
-<img src="./assets/icons/visualstudio.png" alt="datascience" width="180" hight="50">
+<img src="./assets/icons/csharp.png" alt="csharp">
+<img src="./assets/icons/css3.png" alt="java" >
+<img src="./assets/icons/html.png" alt="AI">
+<img src="./assets/icons/js.png" alt="bash">
+<img src="./assets/icons/visualstudio.png" alt="datascience">
 </br>
-<img src="./assets/icons/visualstudio_code.png" alt="google_cloud_platform" width="270" hight="50">
-<img src="./assets/icons/docker.png" alt="visualstudio_code" width="240" hight="50">
+<img src="./assets/icons/visualstudio_code.png" alt="google_cloud_platform">
+<img src="./assets/icons/docker.png" alt="visualstudio_code">
 </br>
-<img src="./assets/icons/vmware.png" alt="pc" width="100" hight="50">
-<img src="./assets/icons/web.png" alt="csharp" width="120" hight="50">
-<img src="./assets/icons/datascience.png" alt="edge" width="100" hight="50">
-<img src="./assets/icons/leetcode.png" alt="playstation" width="150" hight="50">
+<img src="./assets/icons/vmware.png" alt="pc">
+<img src="./assets/icons/web.png" alt="csharp">
+<img src="./assets/icons/datascience.png" alt="edge">
+<img src="./assets/icons/leetcode.png" alt="playstation">
 </p>
 </br>
 </br>
