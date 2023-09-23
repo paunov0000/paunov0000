@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <body>
-    <center>
+<center>
 <h1 align="center"> 💎 𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙩𝙤 𝙢𝙮 𝙋𝙧𝙤𝙛𝙞𝙡𝙚 💎 </h1>
 <br>
 <div align="center">
@@ -36,7 +36,7 @@
    </div>
 </div>
   
-<div>
+<div align="center">
     <br>
     <p align="center">
     <img src="./assets/icons/csharp.png" alt="csharp">
@@ -55,7 +55,7 @@
     <br>
     <h2 align="center"> 📥 𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝙢𝙚 📥 </h2>
     <div align="center">
-        <img src="" alt="idksmtcute" align="right" width="373.5px" height="208.5px">
+        <!-- <img src="" alt="idksmtcute" align="right" width="373.5px" height="208.5px"> -->
     </div>
     <br>
     <p align="center">
@@ -65,13 +65,13 @@
         <a href="https://www.instagram.com/paunov0000"><img src="./assets/icons/instagram.png">
         <a href="https://www.linkedin.com/in/lachezar-paunov-aa38b5250"><img src="./assets/icons/linkedin.png" alt="linkedin"></a>
 </div>
-    <br>
-    <div>
-        <h2 align="center"> 🖤 𝘛𝘩𝘢𝘯𝘬𝘴 𝘧𝘰𝘳 𝘳𝘦𝘢𝘥𝘪𝘯𝘨 🖤 </h2>
-        <div align="center">
-            <img src="" alt="smtcuteidklolll">
-        </div>
-        <hr>
+<br>
+<div>
+    <h2 align="center"> 🖤 𝘛𝘩𝘢𝘯𝘬𝘴 𝘧𝘰𝘳 𝘳𝘦𝘢𝘥𝘪𝘯𝘨 🖤 </h2>
+    <div align="center">
+        <img src="./assets/cute.gif" alt="smtcuteidklolll">
     </div>
-    </center>
+<hr>
+</div>
+</center>
 </body>
