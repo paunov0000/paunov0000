@@ -28,18 +28,18 @@
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <img src="./assets/icons/csharp.png" alt="csharp">
-<img src="./assets/icons/css3.png" alt="java" >
-<img src="./assets/icons/html.png" alt="AI">
-<img src="./assets/icons/js.png" alt="bash">
-<img src="./assets/icons/visualstudio.png" alt="datascience">
+<img src="./assets/icons/css3.png" alt="css3" >
+<img src="./assets/icons/html.png" alt="html5">
+<img src="./assets/icons/js.png" alt="javascript">
+<img src="./assets/icons/visualstudio.png" alt="visualstudio">
 </br>
-<img src="./assets/icons/visualstudio_code.png" alt="google_cloud_platform">
-<img src="./assets/icons/docker.png" alt="visualstudio_code">
+<img src="./assets/icons/visualstudio_code.png" alt="visualstudio_code">
+<img src="./assets/icons/docker.png" alt="docker">
 </br>
-<img src="./assets/icons/vmware.png" alt="pc">
-<img src="./assets/icons/web.png" alt="csharp">
-<img src="./assets/icons/datascience.png" alt="edge">
-<img src="./assets/icons/leetcode.png" alt="playstation">
+<img src="./assets/icons/vmware.png" alt="vmware">
+<img src="./assets/icons/leetcode.png" alt="leetcode">
+<img src="./assets/icons/web.png" alt="web">
+<img src="./assets/icons/datascience.png" alt="data_science">
 </p>
 </br>
 </br>
