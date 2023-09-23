@@ -52,7 +52,6 @@
     <img src="./assets/icons/web.png" alt="web">
     <img src="./assets/icons/datascience.png" alt="data_science">
     </p>
-
     <br>
     <h2 align="center"> 📥 𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝙢𝙚 📥 </h2>
     <div align="center">
