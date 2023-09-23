@@ -11,8 +11,8 @@
 
 
 ### - Currently Learning :
-- ✨ HTML & CSS <a href="https://softuni.bg/">@SoftUni</a>
-- ✨ JavaScript <a href="https://softuni.bg/">@SoftUni</a>
+- ✨ HTML & CSS <a href="https://softuni.bg/" target="_blank">@SoftUni</a>
+- ✨ JavaScript <a href="https://softuni.bg/" target="_blank">@SoftUni</a>
 
 </br>
 </br>
