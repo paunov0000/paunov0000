@@ -5,11 +5,12 @@
 # About ME 💬 :
 
 ### - I'm 21 years old development enthusiast from Bulgaria.
+<p>
 
 <img hight="350" width="450" alt="jpg" align="right" src="./assets/sosocute.jpg">
 
 
-### - Learning :
+### - Currently Learning :
 - ✨ HTML & CSS
 - ✨ JavaScript
 
