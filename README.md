@@ -11,8 +11,8 @@
 
 
 ### - Currently Learning :
-- ✨ HTML & CSS
-- ✨ JavaScript
+- ✨ HTML & CSS @ SoftUni
+- ✨ JavaScript @ SoftUni
 
 </br>
 </br>
