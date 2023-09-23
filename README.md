@@ -66,7 +66,7 @@
         <a href="https://www.linkedin.com/in/lachezar-paunov-aa38b5250"><img src="./assets/icons/linkedin.png" alt="linkedin"></a>
 </div>
     <br>
-    <div align="center">
+    <div>
         <h2 align="center"> 🖤 𝘛𝘩𝘢𝘯𝘬𝘴 𝘧𝘰𝘳 𝘳𝘦𝘢𝘥𝘪𝘯𝘨 🖤 </h2>
         <div align="center">
             <img src="" alt="smtcuteidklolll">
