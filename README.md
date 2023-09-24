@@ -31,7 +31,6 @@
   
 <div>
     <h2 align="center"> 🧬 𝙆𝙣𝙤𝙬𝙡𝙚𝙙𝙜𝙚 🧬 </h2>
-    <br>
     <p>
     <div align="center">
         <img src="./assets/pics/pic3.jpg" alt="cute" align="right" width="160" height="191">
