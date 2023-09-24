@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <body>
-<center>
+    <center>
 <h1 align="center"> 💎 𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙩𝙤 𝙢𝙮 𝙋𝙧𝙤𝙛𝙞𝙡𝙚 💎 </h1>
 <br>
 <div align="center">
-    <img src="./assets/socute.jpg">
+    <img src="./assets/pics/big_banner.jpg" width="400" height="266">
     <br>
     <p>𝙑𝙚𝙣𝙞<p>
     <p>𝙑𝙞𝙙𝙞<p>
@@ -15,7 +15,7 @@
 <div>
     <h2 align="center"> 🪬 𝘼𝙗𝙤𝙪𝙩 𝙢𝙚 🪬 </h2>
     <div align="center">
-        <img src="./assets/sosocute.jpg" align="right">
+        <img src="./assets/pics/pic1.jpg" align="right" width="160" height="200">
     </div>
     <ul>
         <li><b>Name:</b> Lachezar</li>
@@ -32,7 +32,7 @@
     <br>
     <p>
     <div align="center">
-        <img src="" alt="cute" align="right">
+        <img src="./assets/pics/pic3.jpg" alt="cute" align="right" width="160" height="191">
    </div>
 </div>
   
@@ -56,6 +56,7 @@
     <h2 align="center"> 📥 𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝙢𝙚 📥 </h2>
     <div align="center">
         <!-- <img src="" alt="idksmtcute" align="right" width="373.5px" height="208.5px"> -->
+        <img src="./assets/pics/pic2.jpg" alt="idksmtcute" align="right" width="160" height="221">
     </div>
     <br>
     <p align="center">
@@ -69,9 +70,10 @@
 <div>
     <h2 align="center"> 🖤 𝘛𝘩𝘢𝘯𝘬𝘴 𝘧𝘰𝘳 𝘳𝘦𝘢𝘥𝘪𝘯𝘨 🖤 </h2>
     <div align="center">
-        <img src="./assets/cute.gif" alt="smtcuteidklolll">
+        <img src="./assets/pics/pic4(2).jpg" alt="smtcuteidklolll" width="600" height="463">
+        <!-- <img src="./assets/pics/pic4(1).jpg"> -->
     </div>
 <hr>
 </div>
-</center>
+    </center>
 </body>
