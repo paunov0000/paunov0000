@@ -71,7 +71,7 @@
 <br>
 <br>
 <div>
-    <h2 align="center"> 🖤 𝘛𝘩𝘢𝘯𝘬𝘴 𝘧𝘰𝘳 𝘳𝘦𝘢𝘥𝘪𝘯𝘨 🖤 </h2>
+    <h3 align="center"> 🖤 𝘛𝘩𝘢𝘯𝘬𝘴 𝘧𝘰𝘳 𝘳𝘦𝘢𝘥𝘪𝘯𝘨 🖤 </h3>
     <div align="center">
         <!-- <img src="./assets/pics/pic4(1).jpg " alt="smtcuteidklolll" width="600" height="338"> -->
         <img src="./assets/pics/pic4(1).jpg " alt="smtcuteidklolll">
