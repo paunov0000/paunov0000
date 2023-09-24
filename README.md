@@ -25,6 +25,9 @@
     <br>
     <br>
     <br>
+    <br>
+    <br>
+    <br>
 </div>
   
 <div>
@@ -66,6 +69,11 @@
         <a href="https://www.instagram.com/paunov0000"><img src="./assets/icons/instagram.png">
         <a href="https://www.linkedin.com/in/lachezar-paunov-aa38b5250"><img src="./assets/icons/linkedin.png" alt="linkedin"></a>
 </div>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <div>
     <h2 align="center"> 🖤 𝘛𝘩𝘢𝘯𝘬𝘴 𝘧𝘰𝘳 𝘳𝘦𝘢𝘥𝘪𝘯𝘨 🖤 </h2>
