@@ -18,7 +18,7 @@
         <img src="./assets/pics/pic1.jpg" align="right" width="160" height="200">
     </div>
     <ul>
-        <li><b>Name:</b> Lachezar</li>
+        <li><b>Name:</b> Lucho</li>
         <li><b>Gender:</b> Male</li>
         <li><b>Hobbies:</b> Gym, Tech Stuff, Web Development, Cars</b></li>
     </ul>
@@ -67,7 +67,6 @@
         <a href="https://www.instagram.com/paunov0000"><img src="./assets/icons/instagram.png">
         <a href="https://www.linkedin.com/in/lachezar-paunov-aa38b5250"><img src="./assets/icons/linkedin.png" alt="linkedin"></a>
 </div>
-<br>
 <br>
 <br>
 <br>
