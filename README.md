@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <body>
     <center>
-<h1 align="center"> 💎 𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙩𝙤 𝙢𝙮 𝙋𝙧𝙤𝙛𝙞𝙡𝙚 💎 </h1>
+<h1 align="center">𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙩𝙤 𝙢𝙮 𝙋𝙧𝙤𝙛𝙞𝙡𝙚 ☝️🤓</h1>
 <br>
 <div align="center">
     <img src="./assets/pics/download (8).jpg" width="400" height="266">
