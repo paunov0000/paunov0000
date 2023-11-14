@@ -57,7 +57,7 @@
     <h2 align="center"> 📥 𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝙢𝙚 📥 </h2>
     <div align="center">
         <!-- <img src="" alt="idksmtcute" align="right" width="373.5px" height="208.5px"> -->
-        <img src="./assets/pics/aaab.jpg" alt="idksmtcute" align="right" width="160" height="221">
+        <img src="./assets/pics/download (12).jpg" alt="idksmtcute" align="right" width="160" height="221">
     </div>
     <br>
     <p align="center">
