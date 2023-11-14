@@ -15,7 +15,7 @@
 <div>
     <h2 align="center"> 🪬 𝘼𝙗𝙤𝙪𝙩 𝙢𝙚 🪬 </h2>
     <div align="center">
-        <img src="./assets/pics/download (10).jpg" align="right" width="160" height="200">
+        <img src="./assets/pics/download (9).jpg" align="right" width="160" height="200">
     </div>
     <ul>
         <li><b>Name:</b> Lucho</li>
