@@ -4,7 +4,7 @@
 <h1 align="center"> 💎 𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙩𝙤 𝙢𝙮 𝙋𝙧𝙤𝙛𝙞𝙡𝙚 💎 </h1>
 <br>
 <div align="center">
-    <img src="./assets/pics/big_banner.jpg" width="400" height="266">
+    <img src="./assets/pics/yi_banner.jpg" width="400" height="266">
     <br>
     <p>𝙑𝙚𝙣𝙞<p>
     <p>𝙑𝙞𝙙𝙞<p>
