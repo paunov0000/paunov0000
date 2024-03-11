@@ -42,7 +42,6 @@
     <br>
     <img src="./assets/icons/visualstudio.png" alt="visualstudio">
     <img src="./assets/icons/visualstudio_code.png" alt="visualstudio_code">
-    <img src="./assets/icons/docker.png" alt="docker">
     <img src="./assets/icons/vmware.png" alt="vmware">
     <br>
     <img src="./assets/icons/web.png" alt="web">
