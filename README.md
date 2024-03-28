@@ -35,17 +35,7 @@
 <div align="center">
     <br>
     <p align="center">
-    <img src="./assets/icons/csharp.png" alt="csharp">
-    <img src="./assets/icons/css3.png" alt="css3" >
-    <img src="./assets/icons/html.png" alt="html5">
-    <img src="./assets/icons/js.png" alt="javascript">
-    <br>
-    <img src="./assets/icons/visualstudio.png" alt="visualstudio">
-    <img src="./assets/icons/visualstudio_code.png" alt="visualstudio_code">
-    <img src="./assets/icons/vmware.png" alt="vmware">
-    <br>
-    <img src="./assets/icons/web.png" alt="web">
-    <img src="./assets/icons/datascience.png" alt="data_science">
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,tailwind,react,js,jquery,figma,html,css,postman,git,bootstrap&perline=4">
     </p>
     <br>
     <h2 align="center"> 📥 𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝙢𝙚 📥 </h2>
@@ -58,8 +48,8 @@
     Here are some of my <br> most used socials 
     </p>
     <p align="center">
-        <a href="https://www.instagram.com/paunov0000"><img src="./assets/icons/instagram.png">
         <a href="https://www.linkedin.com/in/lachezar-paunov-aa38b5250"><img src="./assets/icons/linkedin.png" alt="linkedin"></a>
+    </p>
 </div>
 <br>
 <br>
