@@ -6,24 +6,7 @@
 <div align="center">
     <img src="./assets/pics/download (8).jpg" width="400" height="266">
 </div>
-  
-<div>
-    <h2 align="center"> 🪬 𝘼𝙗𝙤𝙪𝙩 𝙢𝙚 🪬 </h2>
-    <div align="center">
-        <img src="./assets/pics/download (9).jpg" align="right" width="160" height="200">
-    </div>
-    <ul>
-        <li><b>Name: </b>Lucho</li>
-        <li><b>Gender: </b>Male</li>
-        <li><b>Hobbies: </b>Gym, Tech Stuff, Web Development, Cars</b></li>
-    </ul>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-</div>
-  
+
 <div>
     <h2 align="center"> 🧬 𝙆𝙣𝙤𝙬𝙡𝙚𝙙𝙜𝙚 🧬 </h2>
     <p>
